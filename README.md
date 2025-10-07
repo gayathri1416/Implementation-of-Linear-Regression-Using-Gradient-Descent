@@ -9,9 +9,13 @@ To write a program to predict the profit of a city using the linear regression m
 
 ## Algorithm
 1.Import Required Libraries
-2. Data Reading and Preprocessing
+
+2.Data Reading and Preprocessing
+   
 3.Adding Bias and Initializing Parameters
-4.Gradient Descent Parameter Update
+
+4.Gradient Descent Parameter 
+
 5.Prediction on New Data
  
 ## Program:
